@@ -1,6 +1,6 @@
 # NavGPT
 ## 克隆远程git仓库到本地
-  git clone https://github.com/GengzeZhou/NavGPT
+  git clone https://github.com/GengzeZhou/NavGPT.git
 ## Data Preparation
   从[Dropbox](https://www.dropbox.com/sh/i8ng3iq5kpa68nu/AAB53bvCFY_ihYx1mkLlOB-ea?dl=1)下载R2R数据集，解压到`datasets`，注意`datasets`下第一个文件夹名称是`R2R`，`R2R`里面的才是数据集
 ## Installation
